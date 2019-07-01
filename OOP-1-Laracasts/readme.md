@@ -20,9 +20,9 @@ php -S localhost:8000                                     ///// runs local host 
 Ep 1: Classes | Classes are the blueprints of objects & class contains both data (variables) & functions that form a package called an: 'object'.
 Ep 2: Getters and Setters | G&S are the principal way to get and set properties for security reasons & organization.
 Ep 3: Encapsulation | Encapsulation is a concept of wrapping-up some data in a single unit & other good part of Encapsulation is that you can make a class read only or read only using setters & getters.
-Ep 4: Inheritance | Is a concept of creating functions that will be used in other children classes.
-Ep 5: Classes | Classes are the blueprints of objects & class contains both data (variables) and functions that form a package called an: 'object'.
-Ep 6: Classes | Classes are the blueprints of objects & class contains both data (variables) and functions that form a package called an: 'object'.
-Ep 7: Classes | Classes are the blueprints of objects & class contains both data (variables) and functions that form a package called an: 'object'.
+Ep 4: Inheritance | Is a concept of creating functions that will be used from other children classes.
+Ep 5: empty | empty
+Ep 6: empty | empty
+Ep 7: empty | empty
 Ep 8: Interfaces | Interfaces are basically a "contract" that the class who implements it sign to.
-Content Cell  | Content Cell
+Ep 9: Interfaces vs abstract classes | mostly they are very similar both can create a "contract" with the class that implements or extends it but abstract classes can have some functionality & and interfaces are just "contracts".
